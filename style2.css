@@ -2,18 +2,19 @@
     border: 1px solid red;
 }
 
-;
-
 .green {
     border: 1px solid green;
 }
 
-.heading-1 {
+body {
+    margin: 0
+}
+
+.heading1 {
     height: 100px;
 }
 
-;
 
-.heading-2 {
+.heading2 {
     height: 600px;
 }
